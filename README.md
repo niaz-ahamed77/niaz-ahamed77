@@ -1,7 +1,7 @@
 - 👋 Greetings!
 - 👨🏼‍🎓 I am a Junior CSS student at the University Of Washington Tacoma.
 - ☕ I mainly code in Java.
-- 🌱 Currently learning C and ERLANG this quarter.
+- 🌱 Always learning!
 
 
 <!---
