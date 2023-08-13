@@ -1,5 +1,5 @@
 - 👋 Greetings!
-- 👨🏼‍🎓 I am a Junior CSS student at the University Of Washington Tacoma.
+- 👨🏼‍🎓 I am a Senior CSS student at the University Of Washington Tacoma.
 - ☕ I mainly code in Java.
 - 🌱 Always learning!
 
