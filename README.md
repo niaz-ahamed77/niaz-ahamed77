@@ -1,7 +1,8 @@
-- 👋 Greetings!
-- 👨🏼‍🎓 I am a Senior CSS student at the University Of Washington Tacoma.
-- ☕ I mainly code in Java.
-- 🌱 Always learning!
+- 👋 Greetings, I'm Niaz!
+- 👨🏼‍🎓 I am a Senior CSS student at the University Of Washington.
+- ☕ I code in Python, Java, and C#.
+- 🌱 Currently building a search engine for Northgard Players using .NET Core, SQL server, React, and Elasticsearch.
+- 📫 How to reach me --> dr.niazahamed24@gmail.com
 
 
 <!---
